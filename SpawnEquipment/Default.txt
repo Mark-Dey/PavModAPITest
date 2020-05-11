@@ -1,0 +1,5 @@
+{
+    "PrimaryWeapon": "ak47",
+    "SecondaryWeapon": "57",
+    "Cash": 99999
+}
